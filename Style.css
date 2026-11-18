@@ -1,0 +1,47 @@
+<head>
+    <title>The Role of Technology in Combating Climate Change</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+/* General website styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f7f1;
+    color: #333333;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+/* Main heading */
+h1 {
+    background-color: #245c3a;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+/* Section headings */
+h2 {
+    color: #245c3a;
+    border-bottom: 2px solid #79a982;
+    padding-bottom: 5px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+}
+
+/* Lists */
+ul, ol {
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+/* Images */
+img {
+    border-radius: 10px;
+    max-width: 100%;
+}
